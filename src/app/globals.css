@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search-header {
+    background-image: url("https://images.pexels.com/photos/3934023/pexels-photo-3934023.jpeg");
+}

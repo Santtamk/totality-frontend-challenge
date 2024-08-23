@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "image": "https://images.pexels.com/photos/1375383/pexels-photo-1375383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Cozy Studio Apartment",
+    "description": "A small and cozy studio apartment in downtown with all the essentials.",
+    "price": 85,
+    "location": "Downtown",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Air Conditioning"]
+  },
+  {
+    "id": "2",
+    "image": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Luxury Urban Loft",
+    "description": "Modern loft in the heart of the city with stunning views.",
+    "price": 250,
+    "location": "City Center",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Gym", "Pool"]
+  },
+  {
+    "id": "3",
+    "image": "https://images.pexels.com/photos/2245411/pexels-photo-2245411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Charming Country House",
+    "description": "A quaint country house surrounded by nature, ideal for a relaxing getaway.",
+    "price": 150,
+    "location": "Countryside",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Fireplace"]
+  },
+  {
+    "id": "4",
+    "image": "https://images.pexels.com/photos/895555/pexels-photo-895555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Beachfront Villa",
+    "description": "Spacious villa right on the beach with panoramic ocean views.",
+    "price": 400,
+    "location": "Beachfront",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Pool", "Ocean View"]
+  },
+  {
+    "id": "5",
+    "image": "https://images.pexels.com/photos/1055056/pexels-photo-1055056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Modern Suburban Home",
+    "description": "Contemporary home in a family-friendly neighborhood with ample space.",
+    "price": 180,
+    "location": "Suburbs",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Garage", "Garden"]
+  },
+  {
+    "id": "6",
+    "image": "https://images.pexels.com/photos/1375383/pexels-photo-1375383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Elegant City Penthouse",
+    "description": "Luxurious penthouse with a rooftop terrace and breathtaking city views.",
+    "price": 350,
+    "location": "City Center",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Gym", "Rooftop Terrace"]
+  },
+  {
+    "id": "7",
+    "image": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Rustic Mountain Cabin",
+    "description": "Cozy cabin nestled in the mountains, perfect for a retreat.",
+    "price": 120,
+    "location": "Mountains",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Fireplace"]
+  },
+  {
+    "id": "8",
+    "image": "https://images.pexels.com/photos/2245411/pexels-photo-2245411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Sleek Studio in Arts District",
+    "description": "Stylish studio located in the vibrant arts district with great amenities.",
+    "price": 95,
+    "location": "Arts District",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Air Conditioning"]
+  },
+  {
+    "id": "9",
+    "image": "https://images.pexels.com/photos/895555/pexels-photo-895555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Historic Townhouse",
+    "description": "Beautifully restored townhouse with historic charm and modern comforts.",
+    "price": 200,
+    "location": "Historic District",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Fireplace"]
+  },
+  {
+    "id": "10",
+    "image": "https://images.pexels.com/photos/1055056/pexels-photo-1055056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Chic Loft in Industrial Area",
+    "description": "Trendy loft with high ceilings and a chic industrial design.",
+    "price": 130,
+    "location": "Industrial Area",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Gym"]
+  },
+  {
+    "id": "11",
+    "image": "https://images.pexels.com/photos/1375383/pexels-photo-1375383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Spacious Family Home",
+    "description": "Large home with a backyard and space for the whole family.",
+    "price": 220,
+    "location": "Suburbs",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Garden", "Garage"]
+  },
+  {
+    "id": "12",
+    "image": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Coastal Cottage",
+    "description": "Charming cottage by the sea with a relaxing atmosphere.",
+    "price": 160,
+    "location": "Coastal",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Ocean View"]
+  },
+  {
+    "id": "13",
+    "image": "https://images.pexels.com/photos/2245411/pexels-photo-2245411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Urban Loft with Rooftop",
+    "description": "Modern urban loft with a private rooftop and city views.",
+    "price": 275,
+    "location": "City Center",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Rooftop Terrace"]
+  },
+  {
+    "id": "14",
+    "image": "https://images.pexels.com/photos/895555/pexels-photo-895555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Quiet Countryside Retreat",
+    "description": "Relaxing retreat in the countryside, ideal for unwinding.",
+    "price": 140,
+    "location": "Countryside",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Fireplace"]
+  },
+  {
+    "id": "15",
+    "image": "https://images.pexels.com/photos/1055056/pexels-photo-1055056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Contemporary Loft Apartment",
+    "description": "Sleek and modern loft apartment with all the amenities.",
+    "price": 190,
+    "location": "Arts District",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Gym"]
+  },
+  {
+    "id": "16",
+    "image": "https://images.pexels.com/photos/1375383/pexels-photo-1375383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Modern Beach House",
+    "description": "Stylish beach house with direct access to the sand.",
+    "price": 320,
+    "location": "Beachfront",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Pool", "Ocean View"]
+  },
+  {
+    "id": "17",
+    "image": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Historic Mansion",
+    "description": "Elegant mansion with a rich history and luxurious interiors.",
+    "price": 500,
+    "location": "Historic District",
+    "bedrooms": 5,
+    "amenities": ["WiFi", "Gym", "Garden"]
+  },
+  {
+    "id": "18",
+    "image": "https://images.pexels.com/photos/2245411/pexels-photo-2245411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Sunny Studio in Downtown",
+    "description": "Bright and airy studio apartment in a prime downtown location.",
+    "price": 110,
+    "location": "Downtown",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Air Conditioning"]
+  },
+  {
+    "id": "19",
+    "image": "https://images.pexels.com/photos/895555/pexels-photo-895555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Luxurious Suburban Estate",
+    "description": "Spacious estate with premium features and a large garden.",
+    "price": 350,
+    "location": "Suburbs",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Garden", "Garage"]
+  },
+  {
+    "id": "20",
+    "image": "https://images.pexels.com/photos/1055056/pexels-photo-1055056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Chic Urban Flat",
+    "description": "Stylish urban flat in a trendy neighborhood with easy access to amenities.",
+    "price": 150,
+    "location": "City Center",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Gym"]
+  }
+]
